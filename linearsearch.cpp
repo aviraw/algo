@@ -6,7 +6,7 @@ int main()
     cout<<"enter size of array"<<endl;
     cin>>size;
     //Now we will be creating two array
-    int name[size];
+    char name[size];
     int rollno[size];
     //Now we will take input
     for(int loop=0;loop<size;loop++)
