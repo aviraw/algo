@@ -1,2 +1,2 @@
 # algo
- algorithms-for-learning
+ These are algorithms-for-learning.
