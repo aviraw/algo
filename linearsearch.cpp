@@ -8,7 +8,7 @@ int main()
     //Now we will be creating two array
     char name[size];
     int rollno[size];
-    //Now we will take input
+    //Now we will take input from user
     for(int loop=0;loop<size;loop++)
     {
         cout<<"Enter name of student "<<loop+1<<endl;
